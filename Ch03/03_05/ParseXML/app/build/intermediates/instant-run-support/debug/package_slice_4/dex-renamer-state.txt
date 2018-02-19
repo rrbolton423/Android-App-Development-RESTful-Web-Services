@@ -1,0 +1,4 @@
+#Sat Feb 10 12:28:55 EST 2018
+base.0=/Users/romellbolton/Desktop/Ex_Files_Android_Apps_RESTful_Upd/Exercise Files/Ch03/03_05/ParseXML/app/build/intermediates/transforms/dexMerger/debug/4
+path.0=classes.dex
+renamed.0=classes.dex

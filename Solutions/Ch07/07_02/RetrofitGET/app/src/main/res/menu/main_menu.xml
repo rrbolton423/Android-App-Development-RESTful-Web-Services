@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_signin"
+        android:title="@string/sign_in"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action_settings"
+        android:title="@string/settings"
+        app:showAsAction="ifRoom" />
+    <item android:id="@+id/action_all_items"
+        android:title="@string/display_all"
+        app:showAsAction="ifRoom"/>
+    <item android:id="@+id/action_choose_category"
+        android:title="@string/choose_a_category"
+        app:showAsAction="ifRoom"/>
+</menu>

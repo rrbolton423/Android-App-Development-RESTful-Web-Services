@@ -1,0 +1,4 @@
+#Thu Feb 15 00:06:07 EST 2018
+base.0=/Users/romellbolton/Desktop/Ex_Files_Android_Apps_RESTful_Upd/Exercise Files/Ch06/06_03/Picasso/app/build/intermediates/transforms/dexMerger/debug/8
+path.0=classes.dex
+renamed.0=classes.dex

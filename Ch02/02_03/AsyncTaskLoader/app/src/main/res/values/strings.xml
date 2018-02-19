@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Code Runner</string>
+    <string name="run_code">Run code</string>
+    <string name="clear_output">Clear</string>
+</resources>

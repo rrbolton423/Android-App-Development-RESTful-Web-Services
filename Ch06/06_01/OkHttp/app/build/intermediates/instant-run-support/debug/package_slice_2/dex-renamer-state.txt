@@ -1,0 +1,4 @@
+#Wed Feb 14 14:23:06 EST 2018
+base.0=/Users/romellbolton/Desktop/Ex_Files_Android_Apps_RESTful_Upd/Exercise Files/Ch06/06_01/OkHttp/app/build/intermediates/transforms/dexMerger/debug/2
+path.0=classes.dex
+renamed.0=classes.dex
